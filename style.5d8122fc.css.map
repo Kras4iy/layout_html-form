@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,UACE,gBACF,CAEA,SACE,eACF,CAEA,OACE,eACF","file":"style.5d8122fc.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.inputDiv {\n  padding-top: 10px;\n}\n\n.formBtn {\n  margin-top: 10px;\n}\n\n.group {\n  margin-top: 20px;\n}\n"]}
